@@ -1,0 +1,24 @@
+{
+  "name": "task-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knandwani98/task-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knandwani98/task-npm/issues"
+  },
+  "homepage": "https://github.com/knandwani98/task-npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "parcel": "^2.7.0"
+  }
+}
